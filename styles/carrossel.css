@@ -72,3 +72,13 @@ width: 100%;
     font-weight: 700;
     text-decoration: none;
 }
+
+.descricao__imagem-estrelas {
+    margin-bottom: 0.5em;
+}
+
+.descricao {
+    padding-right: 1em;
+}
+
+
